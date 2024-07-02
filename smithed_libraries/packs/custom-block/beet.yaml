@@ -13,6 +13,7 @@ require:
   - bolt
   - bolt_expressions
   - smithed_libraries.plugins.nbt_literals
+  - smithed_libraries.plugins.1_21_patch
 
 pipeline:
   - mecha
